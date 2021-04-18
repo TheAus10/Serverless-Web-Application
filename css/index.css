@@ -148,14 +148,10 @@ header img{
 
 /* Forms */
 
-.center-text{
-    text-align: center;
-}
-
-
 .form-wrap{
     width: 35%;
     margin: 0 auto;
+    text-align: center;
 }
 
 .left-form{
